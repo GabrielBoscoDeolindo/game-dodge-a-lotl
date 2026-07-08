@@ -1,0 +1,9 @@
+image_xscale = 0.70;
+image_yscale = 0.70;
+move_speed = 2.5;
+hsp = 0;
+vsp = 0;
+move_dir = 0;
+is_invincible = false;
+invincible_timer = 0;
+is_dead = false;

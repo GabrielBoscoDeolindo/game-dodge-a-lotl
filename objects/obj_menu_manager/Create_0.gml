@@ -1,0 +1,1 @@
+global.menu_selected = 0;
